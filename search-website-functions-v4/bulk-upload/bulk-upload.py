@@ -18,7 +18,7 @@ from azure.search.documents.indexes.models import (
 
 # Get the service name (short name) and admin API key from the environment
 service_name = "srch-srchbot-test-swedencentral"
-key = "lFp4xE4ICHkO6yn1xN7IfHa1BzIfrhEYfWudekwtafAzSeD0yht4"
+key = ""
 endpoint = "https://{}.search.windows.net/".format(service_name)
 
 # Give your index a name
